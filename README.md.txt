@@ -1,5 +1,6 @@
 started
 changed
 changed once more
-changed again
+changed again conflict to resolve
 Another change
+
